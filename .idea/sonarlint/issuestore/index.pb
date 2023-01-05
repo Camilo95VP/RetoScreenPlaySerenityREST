@@ -17,3 +17,35 @@ N
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 g
 7src/test/java/setup/apiresources/SetUpApiResources.java,6\8\680492ff4751c0f3b22abbd53c3eca93ca218ada
+d
+4src/test/java/runner/apibooking/CreateTokenTest.java,9\1\918c5b95daf90e49846f8e68e5621e6d4928bb5c
+O
+target/site/serenity/index.html,c\e\ce1d953599e56cfde85da6acfdbbb722b0c73490
+`
+0src/main/java/questions/common/ResponseCode.java,2\9\292402962cf316f6d5968609115a570e5beb3172
+Y
+)src/main/java/utils/apibooking/Token.java,3\9\392a1a1fad1ec0c43fcda26301903f39c0a541b9
+Y
+)src/main/java/utils/apibooking/Paths.java,b\d\bd40021fb16d3d40655a5b4fce2e24b7b2ce0f7f
+c
+3src/test/java/setup/apibooking/SetUpApiBooking.java,6\7\67f4a2241ccbe581e3170b84f3b305e0ad86889a
+[
++src/main/java/utils/apibooking/Booking.java,c\2\c26773f1b654e4febe2259346c59b367258e691e
+c
+3src/test/java/setup/apipokemon/SetUpApiPokemon.java,6\a\6aced7ed4c2d378ba4cb45cf1c8a7680d558b359
+Q
+!src/main/java/tasks/DoDelete.java,a\b\abe99731429c45d8f1c2abec9497d9464a064887
+†
+Vsrc/test/java/stepdefinition/apibooking/deletebooking/DeleteBookingStepDefinition.java,8\b\8b47592920fdc5e9c014c4b0c324e37b29783e98
+f
+6src/test/java/runner/apibooking/DeleteBookingTest.java,8\6\86e5885876b4ad00fbfe0774dbf1d498e630e0b4
+c
+3src/test/java/runner/apipokemon/GetBerriesTest.java,3\6\361b6cdd6584764a4b9f6546f9c0bc6c857cc9cd
+‚
+Rsrc/test/java/stepdefinition/apibooking/createtoken/CreateTokenStepDefinition.java,2\6\26a44a7f1a84f66e26f217a87241fcc66cbf0a6b
+€
+Psrc/test/java/stepdefinition/apipokemon/getberries/GetBerriesStepDefinition.java,2\2\226116bbcc13a02d56aea56c8906b81e236a56c3
+˜
+hsrc/test/java/stepdefinition/apiresources/partialupdateresource/PartialUpdateResourceStepDefinition.java,d\0\d0c757f1e416ef43346f5c47e677cf908e020c59
+p
+@src/test/java/runner/apiresources/PartialUpdateResourceTest.java,8\d\8d34a66a1d129d4c49bf076cfbb163883b3a4c4f
